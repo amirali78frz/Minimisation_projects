@@ -7,4 +7,4 @@ In the file "RNN.ipynb", you can find the code for the recurrent neural network 
 
 In the file "RL_bandit.ipynb", you can find the code for the reinforcement learning test. 
 
-These tests are part of numerical examples of a paper manuscript whose link will be announced in the near future.
+These tests are part of numerical examples of a paper manuscript whose link is: "https://arxiv.org/pdf/2505.02281".

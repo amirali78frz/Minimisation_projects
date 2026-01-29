@@ -1,7 +1,10 @@
 In this project, we try to solve the minimisation problem of (strongly) Quasar convex functions using the Gaussian random zeroth-order oracles and a zeroth-order gradient descent ascent algorithm, in both constrained and unconstrained settings.
 
-In this folder, there are four Python notebook files. 
-In the file "Links.ipynb", you can find the codes for general linear models test, hard function test, support vector machine test, and learning linear dynamical system test. 
+In this folder, there are five Python notebook files. 
+
+In the file "Links.ipynb", you can find the codes for the general linear model test, hard function test, and support vector machine test. 
+
+In the file "LDSI_2.ipynb", you can find the learning linear dynamical system test.
 
 In the file "RNN.ipynb", you can find the code for the recurrent neural network test.
 
